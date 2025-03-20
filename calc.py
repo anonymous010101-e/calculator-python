@@ -32,8 +32,11 @@ calculator()
 
 
 
-#Second function prompting the user another try, this function keeps the program running
-#until the user wants to end it.
+'''
+Second function prompting the user another try, this function keeps the program running
+until the user wants to end it.
+
+'''
 
 def repeat_calc():
     while True:
@@ -48,6 +51,9 @@ def repeat_calc():
         
 
 repeat_calc()
+
+
+#I'm aware this could've been more efficient, again, just doing quick basic projects for practice, thank you and enjoy.
 
 
 #By Anonymous on Github.
